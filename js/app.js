@@ -1,5 +1,5 @@
 jQuery(function($) {
-  var url = 'https://drive.google.com/open?id=1HnDZ5Uw_tYl5e89ha8MOM5b9Vvdn_Ngt-FPFaVENfSo';
+  var url = 'https://docs.google.com/spreadsheets/d/1HnDZ5Uw_tYl5e89ha8MOM5b9Vvdn_Ngt-FPFaVENfSo/edit#gid=0';
   var $el = $('.load-status');
   $el.html('<h3>Učitavanje <img src="http://assets.okfn.org/images/icons/ajaxload-circle.gif" /></h3>');
   var tmpl = $('#our-template').html();
